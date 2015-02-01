@@ -1,4 +1,4 @@
-= packer-base-templates  
+= Packer Base Templates  
 
 image:https://travis-ci.org/sobkowiak/packer-base-templates.svg?branch=master["Build Status", link="https://travis-ci.org/sobkowiak/packer-base-templates"]
 
