@@ -1,5 +1,5 @@
 = Packer Base Templates  
 
-image:https://travis-ci.org/sobkowiak/packer-templates.svg["Build Status", link="https://travis-ci.org/sobkowiak/packer-templates"]
+image:https://travis-ci.org/sobkowiak/packer-templates.svg?branch=master["Build Status", link="https://travis-ci.org/sobkowiak/packer-templates"]
 
 Packer templates for Vagrant, Docker and Amazon EC2 base boxes
